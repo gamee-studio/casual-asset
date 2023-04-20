@@ -5,12 +5,16 @@ Casual Asset Documentation
 và của Gamee sẽ nằm trong folder _GameeAsset
 
 - Trong folder _Package chứa các thể loại asset bao gồm
+
 o Model (500MB)
+
 o Sound (3GB)
+
 o UI (500MB)
+
 o VFX (3GB)
 
 - Xem demo bằng các mở các file scene có trong folder Demo, 
 Example hoặc Scene
 
-Xem thêm ở file CasualAssetDocumentation.pdf
+Xem hướng dẫn sử dụng ở file CasualAssetDocumentation.pdf
