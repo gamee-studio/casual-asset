@@ -1,0 +1,35 @@
+120 animated low poly traps and obstacles. VFX & Shader included!
+***************************************************************************************
+This pack contains:
+
+29 unique traps & obstacles in 4 color variations - 116 unique models!
+4 basic ground models - ideal for runner and hypercasual games!
+Animations
+Fire and Smoke VFX
+Electricity Shader
+
+All animations are simple and easily customizible in Unity Animation system!
+Mobile friendly!
+
+***************************************************************************************
+Scripts Instruction:
+
+Script "FlameControl.cs" controls the duration of flames on traps. To modify it, change the parameters inside the following function:
+
+InvokeRepeating("TurnOnOffFire", 1, 2)
+First number determines when will fire activate (in seconds)
+Second number determines how long will fire be turned on/off (in seconds)
+
+Make sure this script is placed on the "FlameSpawner" and that "Flame1", "Flame2" (...) are set as children of "FlameSpawner".
+***************************************************************************************
+VFX & Electricity shader are compatible with URP render pipeline.
+All models and animations are compatible with all render pipelines (Core, URP, HDRP)
+***************************************************************************************
+Number of textures: 1
+Type of texture maps: PNG
+Texture dimensions: 512 X 512
+Number of meshes/prefabs: 120
+Average polygon count: 36-7460
+***************************************************************************************
+Thank you for purchasing our pack and supporting us!
+If you like our work and would like us to create a model or package on your request - send us an email and let's talk!
